@@ -4,6 +4,6 @@
 node_modules/
 *.log
 *.log.*
-lib/
+# lib/
 tmp/
 sample/bundle.js
